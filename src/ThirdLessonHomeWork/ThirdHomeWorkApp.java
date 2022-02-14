@@ -228,7 +228,6 @@ public class ThirdHomeWorkApp {
         }
         System.out.println("Нет! В массиве нет точки равновесия.");
         return false;
-
     }
     public static void shiftArray(int n, int m) {
         System.out.println("\nTask.8");
